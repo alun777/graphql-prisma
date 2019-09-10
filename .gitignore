@@ -1,0 +1,9 @@
+*.pdf
+
+GraphQLNote.md
+
+/assets
+
+node_modules
+
+/prisma/docker-compose.yml
