@@ -7,7 +7,7 @@ type User {
 
 type Post {
   id: ID! @id
-  titile: String!
+  title: String!
   body: String!
   published: Boolean!
   author: User!
